@@ -1,2 +1,3 @@
 # unurl
-URL shortener, implemented in Go, just for kicks
+
+URL shortener, implemented in Rust, just for kicks
